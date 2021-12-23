@@ -10,6 +10,7 @@ This file is the first page that displays to the user where our logo is displaye
 ### 
 Here the user can sign in into their respective account. They also have the option of signing up incase they do not possess login credentials. The respective XML file is made using Constraint layout. If the user clicks the signup button they will be taken to a new page
 When the user successfully signs in it takes the user to the activity_second.xml life which is made using linear layout
+
 <img src="image/2.png"  width="300" height="600">
 
 ## Register Activity
